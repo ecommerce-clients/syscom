@@ -1,0 +1,1 @@
+var SubDomain = 'syscom'; var SiteID = '25CA8B43-1234-4797-B744-B1A5EE8E27D5'; var host = 'https://api.eraconnect.net';
